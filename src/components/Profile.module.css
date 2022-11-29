@@ -1,9 +1,9 @@
 .about {
-  color: brown;
+  color: rgb(226, 40, 40);
 }
 .paragraph {
   font-style: italic;
-  color: blue;
+  color: rgb(53, 53, 237);
   font-size: 1.2rem;
 }
 .email {
